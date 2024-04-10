@@ -10,6 +10,8 @@ The hourly power consumption data comes from PJM's website and are in megawatts 
 
 The regions have changed over the years so data may only appear for certain dates per region.
 
+## To extract as much accuracy as possible, we have used XGBoost-gradient-boosting-decision-tree models.
+
 ![Alt text](https://i.postimg.cc/dQm3zGyF/download.png)
 
 ### Ideas of what you could do with this dataset:
