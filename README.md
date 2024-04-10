@@ -13,11 +13,9 @@ The regions have changed over the years so data may only appear for certain date
 ![Alt text](https://i.postimg.cc/dQm3zGyF/download.png)
 
 ### Ideas of what you could do with this dataset:
->Split the last year into a test set- can you build a model to predict energy consumption?
->
->Find trends in energy consumption around hours of the day, holidays, or long term trends?
->
->Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
+1. Split the last year into a test set- can you build a model to predict energy consumption?
+2. Find trends in energy consumption around hours of the day, holidays, or long term trends?
+3. Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ### More Dataset 
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
