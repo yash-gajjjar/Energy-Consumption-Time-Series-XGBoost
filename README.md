@@ -14,7 +14,9 @@ The regions have changed over the years so data may only appear for certain date
 
 ### Ideas of what you could do with this dataset:
 >Split the last year into a test set- can you build a model to predict energy consumption?
+>
 >Find trends in energy consumption around hours of the day, holidays, or long term trends?
+>
 >Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ### More Dataset 
