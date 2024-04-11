@@ -21,5 +21,12 @@ The regions have changed over the years so data may only appear for certain date
 2. Find trends in energy consumption around hours of the day, holidays, or long term trends?
 3. Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
+### Features:
+Time Series Data: Utilizes historical energy consumption data.
+XGBoost Model: Implements the XGBoost algorithm for time series forecasting.
+Data Preprocessing: Includes data cleaning and feature engineering.
+Evaluation Metrics: Analyzes model performance using appropriate metrics.
+Visualization: Provides visualizations of predicted vs. actual energy consumption.
+
 ### More Dataset 
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
