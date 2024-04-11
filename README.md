@@ -22,11 +22,11 @@ The regions have changed over the years so data may only appear for certain date
 3. Understand how daily trends change depending of the time of year. Summer trends are very different than winter trends.
 
 ### Features:
-Time Series Data: Utilizes historical energy consumption data.
-XGBoost Model: Implements the XGBoost algorithm for time series forecasting.
-Data Preprocessing: Includes data cleaning and feature engineering.
-Evaluation Metrics: Analyzes model performance using appropriate metrics.
-Visualization: Provides visualizations of predicted vs. actual energy consumption.
+1. Time Series Data: Utilizes historical energy consumption data.
+2. XGBoost Model: Implements the XGBoost algorithm for time series forecasting.
+3. Data Preprocessing: Includes data cleaning and feature engineering.
+4. Evaluation Metrics: Analyzes model performance using appropriate metrics.
+5. Visualization: Provides visualizations of predicted vs. actual energy consumption.
 
 ### More Dataset 
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
